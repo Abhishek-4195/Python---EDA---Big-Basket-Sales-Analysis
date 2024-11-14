@@ -1,6 +1,7 @@
 # 🛒 Big Basket Sales Analysis 📊
 
 Welcome to the Big Basket Sales and Product Analysis project! In this project, we delve into real-world data from Big Basket to uncover trends, insights, and recommendations using exploratory data analysis (EDA). This project showcases my journey of learning data analytics, with a special focus on understanding consumer behavior, brand performance, and product dynamics.
+
 ![welcome](https://github.com/Abhishek-4195/Python---EDA---Big-Basket-Sales-Analysis/blob/main/Screenshot%202024-11-14%20200610.jpg)
 ---
 
