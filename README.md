@@ -32,8 +32,7 @@ These insights not only highlight current market trends but also offer actionabl
 ---
 
 ## 📂 What’s Inside
-- `Data Cleaning.ipynb`: Jupyter notebook for handling missing data, creating new columns, and preparing the data.
-- `EDA.ipynb`: The core of the project, containing code for all visualizations and analyses of the Big Basket dataset.
+- `EDA.ipynb`: Jupyter notebook for handling missing data, creating new columns, and preparing the data. The core of the project, containing code for all visualizations and analyses of the Big Basket dataset.
 - `README.md`: You’re here! An overview of the project.
 - `Resources`: Folder containing any images or supporting documents used in the analysis.
 
